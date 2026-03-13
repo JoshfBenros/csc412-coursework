@@ -1,0 +1,1 @@
+Thread 3 (pid 107) wrote this log.

@@ -10,7 +10,6 @@
 .vscode
 .gitconfig
 .bash_history
-home/
 
 _handin_to_gradescope.zip
 docker_build
